@@ -1,0 +1,9 @@
+Salary slip of Employee - 
+Job Role : Manager
+Name of employee : bezos
+ID of employee : 101
+Basic pay :4000.0
+HRA :2400.0
+TA :2000.0
+sales incentives :1600.0
+Annual salary :10000.0

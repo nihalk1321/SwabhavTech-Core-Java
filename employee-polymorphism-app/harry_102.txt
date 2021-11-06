@@ -1,0 +1,8 @@
+Salary slip of Employee - 
+Job Role : Developer
+Name of employee : harry
+ID of employee : 102
+Basic pay :6000.0
+Performance allowance :3000.0
+Annual incentives :2400.0
+Annual ctc :11400.0
